@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: app2
-        image: joindevops/app2:1.0.0
+        image: kancharlaajay/app2:1.0.0
         ports:
         - containerPort: 80
 ---
